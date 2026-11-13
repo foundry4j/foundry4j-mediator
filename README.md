@@ -184,7 +184,7 @@ create further mediators without affecting the ones already built.
   ClassValue cache ──────────────► RequestDispatcher
   (one entry per request class)          │
                                          ▼
-                          behavior N … behavior 1
+                          behavior N ... behavior 1
                                          │
                                          ▼
                                   RequestHandler
